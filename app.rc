@@ -4,7 +4,7 @@
 //Add an icon if you want to
 //2 ICON "resource/icon.ico"
 
-3 VERSIONINFO
+1 VERSIONINFO
  FILEVERSION 0,0,0,1
  PRODUCTVERSION 0,0,0,1
  FILEOS 0x00040004
